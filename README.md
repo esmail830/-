@@ -43,7 +43,7 @@
 1. تثبيت المكتبات المطلوبة:
    ```bash
    pip install -r requirements.txt
-   تشغيل التطبيق:
+  2. تشغيل التطبيق:
    streamlit run main.py
 افتح الرابط في المتصفح لمعاينة الواجهة.
 
